@@ -151,6 +151,48 @@
                         "title": "Prototypes and Prototypal Inheritance",
                         "description": "Cómo funciona la herencia basada en prototipos en JavaScript.",
                         "repository_url": ""
+                    },
+                    {
+                        "id": 1103,
+                        "title": "Classes and Modern Syntax",
+                        "description": "Uso de las clases en JavaScript moderno con las palabras clave class, extends y super.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1104,
+                        "title": "Encapsulation, Inheritance, and Polymorphism",
+                        "description": "Principios fundamentales de la programación orientada a objetos aplicados en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1105,
+                        "title": "Factory Functions",
+                        "description": "Funciones que retornan nuevos objetos personalizados, permitiendo flexibilidad en la creación de instancias.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1106,
+                        "title": "Object Composition",
+                        "description": "Construcción de objetos complejos a partir de otros más simples, en lugar de usar herencia.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1201,
+                        "title": "Pure Functions",
+                        "description": "Funciones que, dado un mismo conjunto de entradas, siempre devuelven la misma salida sin producir efectos secundarios.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1202,
+                        "title": "Immutability",
+                        "description": "Principio de no modificar directamente los datos existentes, sino crear nuevas estructuras de datos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1203,
+                        "title": "Higher-Order Functions",
+                        "description": "Funciones que aceptan otras funciones como argumentos o las retornan como resultados.",
+                        "repository_url": ""
                     }
                 ]
             },
