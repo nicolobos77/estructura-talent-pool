@@ -5,20 +5,20 @@
         "email": "nico.lobos@outlook.com",
         "phone": "2325475709",
         "location": {
-            "country": "",
+            "country": "Argentina",
             "city": "Carmen de Areco",
-            "state": ""
+            "state": "Buenos Aires"
         },
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/nicolobos/",
         "website": "",
         "portfolio": "",
         "summary": "Desarrollador responsable y puntual, con un enfoque en mejorar continuamente mis habilidades. Me especializo en backend. Enfocado en realizar trabajos con atención al detalle, comprometiéndome con las responsabilidades asignadas y aprendiendo constantemente de cada proyecto."
     },
     "work_experience": [
         {
-            "job_title": "Desarrollador Fullstack",
-            "company": "",
-            "location": "",
+            "job_title": "Backend",
+            "company": "Egg",
+            "location": "Argentina",
             "start_date": "2024-01-01",
             "end_date": "2024-12-31",
             "currently_working": false,
