@@ -193,6 +193,48 @@
                         "title": "Higher-Order Functions",
                         "description": "Funciones que aceptan otras funciones como argumentos o las retornan como resultados.",
                         "repository_url": ""
+                    },
+                    {
+                        "id": 1204,
+                        "title": "Currying",
+                        "description": "Transformación de una función que toma múltiples argumentos en una serie de funciones que toman un solo argumento.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1205,
+                        "title": "Function Composition",
+                        "description": "Técnica que permite encadenar funciones pequeñas en una sola función compleja.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1206,
+                        "title": "Functors and Categories",
+                        "description": "Estructuras que permiten mapear funciones sobre valores envueltos o estructurados.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1207,
+                        "title": "Monads",
+                        "description": "Patrón que permite encadenar operaciones, manejando contextos como la asincronía o el manejo de errores.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1208,
+                        "title": "Lenses",
+                        "description": "Herramientas para acceder y modificar estructuras de datos inmutables de forma segura.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1209,
+                        "title": "Transducers",
+                        "description": "Funciones que transforman otras funciones de transformación, permitiendo operaciones eficientes sobre estructuras de datos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1301,
+                        "title": "Arrays, Objects, Sets, and Maps",
+                        "description": "Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información.",
+                        "repository_url": ""
                     }
                 ]
             },
