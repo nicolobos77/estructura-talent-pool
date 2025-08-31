@@ -235,6 +235,48 @@
                         "title": "Arrays, Objects, Sets, and Maps",
                         "description": "Uso de estructuras de datos como arrays, objetos, sets y maps para almacenar y manipular información.",
                         "repository_url": ""
+                    },
+                    {
+                        "id": 1302,
+                        "title": "Stacks and Queues",
+                        "description": "Estructuras de datos lineales que permiten operaciones de inserción y eliminación en un orden específico (LIFO y FIFO).",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1303,
+                        "title": "Linked Lists",
+                        "description": "Estructura de datos donde cada elemento apunta al siguiente, permitiendo inserciones y eliminaciones eficientes.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1304,
+                        "title": "Recursion",
+                        "description": "Técnica donde una función se llama a sí misma para resolver problemas complejos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1305,
+                        "title": "Array Operations (map, filter, reduce)",
+                        "description": "Funciones de orden superior para transformar, filtrar y reducir arrays en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1306,
+                        "title": "Sorting Algorithms",
+                        "description": "Implementación de algoritmos de ordenamiento como bubble sort, quicksort y merge sort.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1307,
+                        "title": "Search Algorithms",
+                        "description": "Algoritmos de búsqueda como búsqueda lineal y búsqueda binaria para encontrar elementos en estructuras de datos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1308,
+                        "title": "Abstract Data Types",
+                        "description": "Tipos de datos abstractos como pilas, colas y listas que definen operaciones sin especificar su implementación concreta.",
+                        "repository_url": ""
                     }
                 ]
             },
