@@ -319,6 +319,48 @@
                         "title": "Elements of JavaScript Style",
                         "description": "Conjunto de convenciones y estilos recomendados para escribir código JavaScript limpio y legible.",
                         "repository_url": ""
+                    },
+                    {
+                        "id": 1502,
+                        "title": "SOLID Principles",
+                        "description": "Conjunto de principios para escribir código que sea mantenible, escalable y fácil de entender.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1503,
+                        "title": "DRY (Don't Repeat Yourself)",
+                        "description": "Principio que recomienda evitar la duplicación de código para mejorar la mantenibilidad.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1504,
+                        "title": "KISS (Keep It Simple, Stupid)",
+                        "description": "Principio que sugiere mantener el código simple y directo, evitando la complejidad innecesaria.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1505,
+                        "title": "YAGNI (You Ain’t Gonna Need It)",
+                        "description": "Principio que recomienda no implementar características innecesarias hasta que sean realmente necesarias.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1601,
+                        "title": "Unit Testing",
+                        "description": "Escritura de pruebas automatizadas para verificar funcionalidades específicas de manera aislada.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1602,
+                        "title": "Integration Testing",
+                        "description": "Pruebas que evalúan cómo interactúan diferentes componentes del sistema entre sí.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1603,
+                        "title": "End-to-End Testing",
+                        "description": "Pruebas que simulan el flujo completo de una aplicación para asegurar su correcto funcionamiento desde el principio hasta el fin.",
+                        "repository_url": ""
                     }
                 ]
             },
