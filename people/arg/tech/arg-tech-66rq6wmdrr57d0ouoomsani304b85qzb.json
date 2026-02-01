@@ -361,6 +361,48 @@
                         "title": "End-to-End Testing",
                         "description": "Pruebas que simulan el flujo completo de una aplicación para asegurar su correcto funcionamiento desde el principio hasta el fin.",
                         "repository_url": ""
+                    },
+                    {
+                        "id": 1604,
+                        "title": "Mocking is a Code Smell",
+                        "description": "Evitar el uso excesivo de mocks en las pruebas, ya que puede ser un indicador de un diseño débil.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1605,
+                        "title": "Code Coverage",
+                        "description": "Métrica que indica qué porcentaje del código ha sido ejecutado por las pruebas automatizadas.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1701,
+                        "title": "NPM (Node Package Manager)",
+                        "description": "Herramienta para gestionar paquetes y dependencias en proyectos JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1702,
+                        "title": "Babel and Transpilation",
+                        "description": "Uso de Babel para convertir código moderno de JavaScript en una versión compatible con navegadores más antiguos.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1703,
+                        "title": "Webpack and Modern Bundlers",
+                        "description": "Herramientas para empaquetar y optimizar archivos de código JavaScript para su uso en producción.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1704,
+                        "title": "ESLint and Code Formatting",
+                        "description": "Herramientas para mantener un estilo de código consistente y detectar errores potenciales en JavaScript.",
+                        "repository_url": ""
+                    },
+                    {
+                        "id": 1801,
+                        "title": "DOM Manipulation",
+                        "description": "Acceso y modificación de elementos HTML usando JavaScript para actualizar dinámicamente el contenido de una página.",
+                        "repository_url": ""
                     }
                 ]
             },
